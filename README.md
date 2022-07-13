@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Miraj Patel 👋</h1>
-<h3 align="center">A passionate Data Analyst that enjoys working with data to extract valuable insights. I recently graduated from San Jose State University with masters degree in Data Analytics.</h3>
+<h6 align="center">A passionate Data Analyst that enjoys working with data to extract valuable insights. I recently graduated from San Jose State University with masters degree in Data Analytics. My mission is to assist businesses in making data-driven business decisions by analyzing large amounts of data to identify areas where they can improve. I get enthusiastic about opportunities to use big data to make discoveries.
+</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
